@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Juicy Cheese Burger",
+      "slug": "juicy-cheese-burger",
+      "creator_name": "John Doe",
+      "creator_email": "johndoe@example.com"
+    },
+    {
+      "id": 2,
+      "title": "Spicy Curry",
+      "slug": "spicy-curry",
+      "creator_name": "Max Schwarz",
+      "creator_email": "max@example.com"
+    },
+    {
+      "id": 3,
+      "title": "Homemade Dumplings",
+      "slug": "homemade-dumplings",
+      "creator_name": "Emily Chen",
+      "creator_email": "emilychen@example.com"
+    },
+    {
+      "id": 4,
+      "title": "Classic Mac n Cheese",
+      "slug": "classic-mac-n-cheese",
+      "creator_name": "Laura Smith",
+      "creator_email": "laurasmith@example.com"
+    },
+    {
+      "id": 5,
+      "title": "Authentic Pizza",
+      "slug": "authentic-pizza",
+      "creator_name": "Mario Rossi",
+      "creator_email": "mariorossi@example.com"
+    },
+    {
+      "id": 6,
+      "title": "Wiener Schnitzel",
+      "slug": "wiener-schnitzel",
+      "creator_name": "Franz Huber ",
+      "creator_email": "franzhuber@example.com"
+    },
+    {
+      "id": 7,
+      "title": "Fresh Tomato Salad",
+      "slug": "fresh-tomato-salad",
+      "creator_name": "Sophia Green",
+      "creator_email": "sophiagreen@example.com"
+    }
+  ]
