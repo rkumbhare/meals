@@ -1,4 +1,5 @@
-[
+{
+    "meals": [
     {
       "id": 1,
       "title": "Juicy Cheese Burger",
@@ -49,3 +50,4 @@
       "creator_email": "sophiagreen@example.com"
     }
   ]
+}
